@@ -21,7 +21,7 @@ Je gebruikt in deze lessen de **ESP-32D WiFi+BT**. Op het bord zitten onder ande
 
 **Benodigd:** ESP-32D-board, USB-C-**datakabel**, je eigen laptop met Arduino IDE 2 en internet (voor de installatie).
 
-![ESP32-board met belangrijke aansluitingen](../../images/les-01/esp32-board.svg)
+![ESP32-board met belangrijke aansluitingen](images/les-01/esp32-board.svg)
 
 *Afbeelding 1. Schematische weergave van het ESP-32D-lesboard: USB-C, GPIO, EN en BOOT.*
 
@@ -67,7 +67,7 @@ Je kent waarschijnlijk al variabelen en functies. In Arduino-code gebruiken we C
 > [!TIP]
 > Werk op je eigen laptop. Als Arduino IDE en het ESP32-boardpakket al geïnstalleerd zijn, kun je deze installatiestap overslaan.
 
-![Overzicht Arduino IDE](../../images/les-01/arduino-ide-overzicht.svg)
+![Overzicht Arduino IDE](images/les-01/arduino-ide-overzicht.svg)
 
 *Afbeelding 2. Vereenvoudigd overzicht van Verify, Upload, Board/Port en Serial Monitor.*
 
@@ -114,7 +114,7 @@ Hallo, ik ben een ESP32!
 Hallo, ik ben een ESP32!
 ```
 
-![Voorbeeld van de Serial Monitor](../../images/les-01/serial-monitor-voorbeeld.svg)
+![Voorbeeld van de Serial Monitor](images/les-01/serial-monitor-voorbeeld.svg)
 
 *Afbeelding 3. Voorbeeld van de tekstuitvoer in de Serial Monitor bij een baudrate van 115200.*
 
