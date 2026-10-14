@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1250" height="700" viewBox="0 0 1250 700" role="img"><rect width="1250" height="700" rx="24" fill="#f4f7fb"/><text x="45" y="58" font-family="Arial,Helvetica,sans-serif" font-size="36" fill="#1b2a40" font-weight="bold">ESP-32D: drukknop + LED aansluiten</text>
+<rect x="60" y="128" width="280" height="470" rx="24" fill="#172438" stroke="#dd8c22" stroke-width="5"/>
+<text x="115" y="200" font-family="Arial,Helvetica,sans-serif" font-size="35" fill="#fff" font-weight="bold">ESP-32D</text><text x="116" y="240" font-family="Arial,Helvetica,sans-serif" font-size="25" fill="#cad6e8" font-weight="normal">WiFi + BT</text><text x="112" y="328" font-family="Arial,Helvetica,sans-serif" font-size="29" fill="#f1c27e" font-weight="bold">GPIO23</text><text x="112" y="426" font-family="Arial,Helvetica,sans-serif" font-size="29" fill="#f1c27e" font-weight="bold">GPIO18</text><text x="112" y="530" font-family="Arial,Helvetica,sans-serif" font-size="29" fill="#a7d5ff" font-weight="bold">GND</text>
+<circle cx="340" cy="315" r="8" fill="#dd8c22"/><circle cx="340" cy="414" r="8" fill="#dd8c22"/><circle cx="340" cy="517" r="8" fill="#3579b5"/>
+<path d="M340 315 H510" fill="none" stroke="#dd8c22" stroke-width="7"/>
+<circle cx="530" cy="315" r="7" fill="#dd8c22"/><circle cx="700" cy="315" r="7" fill="#3579b5"/>
+<path d="M530 315 L595 275 M635 315 H700" stroke="#dd8c22" stroke-width="7" fill="none"/>
+<path d="M700 315 H1000 V610 H400 V517 H340" stroke="#3579b5" stroke-width="7" fill="none"/>
+<text x="520" y="229" font-family="Arial,Helvetica,sans-serif" font-size="26" fill="#1b2a40" font-weight="bold">DRUKKNOP</text><text x="525" y="258" font-family="Arial,Helvetica,sans-serif" font-size="20" fill="#64748b" font-weight="normal">(normaal open)</text>
+<path d="M340 414 H490" stroke="#dd8c22" stroke-width="7" fill="none"/>
+<rect x="490" y="396" width="160" height="37" rx="9" fill="#e7ce9e" stroke="#a27a45" stroke-width="3"/>
+<text x="498" y="386" font-family="Arial,Helvetica,sans-serif" font-size="21" fill="#7b522b" font-weight="bold">220–330 Ω</text>
+<path d="M650 414 H775" stroke="#dd8c22" stroke-width="7"/>
+<path d="M775 375 L845 414 L775 453 Z" fill="#ed606c" stroke="#ad3540" stroke-width="5"/>
+<path d="M850 373 V454" stroke="#ad3540" stroke-width="8"/>
+<path d="M850 414 H960 V610" stroke="#3579b5" stroke-width="7" fill="none"/>
+<text x="787" y="340" font-family="Arial,Helvetica,sans-serif" font-size="26" fill="#1b2a40" font-weight="bold">LED</text>
+<text x="700" y="482" font-family="Arial,Helvetica,sans-serif" font-size="20" fill="#1b2a40" font-weight="normal">Anode +</text><text x="851" y="482" font-family="Arial,Helvetica,sans-serif" font-size="20" fill="#1b2a40" font-weight="normal">Kathode −</text>
+<path d="M700 490 L775 444" stroke="#dd8c22" stroke-width="3"/><path d="M940 489 L850 448" stroke="#3579b5" stroke-width="3"/>
+<text x="60" y="654" font-family="Arial,Helvetica,sans-serif" font-size="21" fill="#1b2a40" font-weight="normal">Gebruik GPIO23 → knop → GND. De knop mag géén verbinding met 3V3 nodig hebben.</text>
+<text x="60" y="682" font-family="Arial,Helvetica,sans-serif" font-size="17" fill="#64748b" font-weight="normal">Schematische bedrading: geen fysieke weergave van de gaatjes op het breadboard.</text></svg>
