@@ -1,5 +1,5 @@
 // Pas de cursus en lessen hieronder aan. Markdown-bestanden staan op dezelfde website.
-const course={title:"ESP32 · Smart Technology",theme:"smarttechnology",lessons:[{title:"Les 1 – Kennismaken met de ESP32",path:"courses/esp32/les-01.md"},{title:"Les 2 – LED en weerstand",path:"courses/esp32/les-02.md"},{title:"Les 3 – Drukknop en digitale invoer",path:"courses/esp32/les-03.md"}]};
+const course={title:"ESP32 · Smart Technology",theme:"smarttechnology",lessons:[{title:"Les 1 – Kennismaken met de ESP32",path:"courses/esp32/les-01.md"},{title:"Les 2 – LED en weerstand",path:"courses/esp32/les-02.md"},{title:"Les 3 – Drukknop en digitale invoer",path:"courses/esp32/les-03.md"},{title:"Les 4 – Afstand meten met HC-SR04",path:"courses/esp32/les-04.md"}]};
 const content=document.querySelector("#content");
 const safe=s=>String(s).replace(/[&<>"']/g,c=>({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#39;"}[c]));
 const slug=s=>s.toLowerCase().normalize("NFD").replace(/[\u0300-\u036f]/g,"").replace(/[^a-z0-9]+/g,"-").replace(/^-|-$/g,"");
