@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1100" height="580" viewBox="0 0 1100 580" role="img"><rect width="1100" height="580" rx="24" fill="#f4f7fb"/><text x="45" y="62" font-family="Arial,Helvetica,sans-serif" font-size="34" fill="#1b2a40" font-weight="bold">Hoe werkt een drukknop met vier pootjes?</text>
+<rect x="350" y="125" width="405" height="350" rx="35" fill="#34465e" stroke="#1b2a40" stroke-width="6"/>
+<rect x="453" y="223" width="200" height="160" rx="35" fill="#65778e" stroke="#afbdcb" stroke-width="8"/><circle cx="553" cy="301" r="56" fill="#18263b" stroke="#a2b0c2" stroke-width="6"/>
+<path d="M350 197 H273 V262 H350 M755 197 H832 V262 H755 M350 403 H273 V338 H350 M755 403 H832 V338 H755" fill="none" stroke="#d39c4c" stroke-width="16"/>
+<text x="90" y="207" font-family="Arial,Helvetica,sans-serif" font-size="29" fill="#dd8c22" font-weight="bold">Zijde A</text><text x="860" y="207" font-family="Arial,Helvetica,sans-serif" font-size="29" fill="#3579b5" font-weight="bold">Zijde B</text>
+<path d="M160 225 H270" stroke="#dd8c22" stroke-width="5"/><path d="M835 225 H950" stroke="#3579b5" stroke-width="5"/>
+<text x="55" y="475" font-family="Arial,Helvetica,sans-serif" font-size="22" fill="#1b2a40" font-weight="normal">Aansluitpootjes aan</text><text x="55" y="505" font-family="Arial,Helvetica,sans-serif" font-size="22" fill="#1b2a40" font-weight="normal">dezelfde zijde zijn verbonden</text>
+<text x="660" y="475" font-family="Arial,Helvetica,sans-serif" font-size="21" fill="#1b2a40" font-weight="normal">Indrukken: A en B verbonden</text><text x="660" y="506" font-family="Arial,Helvetica,sans-serif" font-size="21" fill="#1b2a40" font-weight="normal">Loslaten: A en B gescheiden</text>
+<text x="55" y="552" font-family="Arial,Helvetica,sans-serif" font-size="18" fill="#64748b" font-weight="normal">Dit is een vereenvoudigde bovenaanzicht-tekening. Controleer je eigen drukknop.</text></svg>
